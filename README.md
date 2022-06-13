@@ -29,13 +29,13 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 # Angular Team Generator
 
 ### Requirement
-Node.js
+Node.js\
 NPM Package Manager
 
 ### Local Environment Setup
 https://angular.io/guide/setup-local
 
 ### Build and Run
-`cd teamapp` locate the project directory
-`ng build` build the project
-`ng serve --open` start project at localhost:4200
+`cd teamapp` locate the project directory\
+`ng build` build the project\
+`ng serve --open` start project at localhost:4200\
