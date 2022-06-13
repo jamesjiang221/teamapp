@@ -25,3 +25,17 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+# Angular Team Generator
+
+### Requirement
+Node.js
+NPM Package Manager
+
+### Local Environment Setup
+https://angular.io/guide/setup-local
+
+### Build and Run
+`cd teamapp` locate the project directory
+`ng build` build the project
+`ng serve --open` start project at localhost:4200
